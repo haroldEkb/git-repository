@@ -1,0 +1,8 @@
+public class hiEveryone {
+
+    public static void Main (String args[]){
+
+        System.out.println("Hi, everyone!");
+
+    }
+}
