@@ -1,1 +1,2 @@
 print("Goodbye, my friend!");
+print("I was glad to see you!");
